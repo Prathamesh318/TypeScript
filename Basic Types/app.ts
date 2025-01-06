@@ -7,4 +7,4 @@ const number2 = 2.8;
 const number3 = 5;
 
 const result = add(number1, number2,number3);
-console.log("Result"+result);
+console.log("Result :"+result);
